@@ -1,0 +1,10 @@
+Babel==1.0
+blinker==1.2
+docutils==0.16
+Jinja2==2.7
+MarkupSafe==0.16
+Pygments==1.5
+pytz==2013.6
+PyYAML==3.13
+singledispatch==3.4.0.3
+Werkzeug==0.8
